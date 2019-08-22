@@ -1,0 +1,1560 @@
+﻿Log file open, 08/22/19 22:48:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unitychanTest3
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.389382
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:255][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.22-13.48.18:255][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.22-13.48.18:256][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.22-13.48.18:257][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:257][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.22-13.48.18:263][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.22-13.48.18:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.22-13.48.18:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.22-13.48.18:265][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.22-13.48.18:265][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.22-13.48.18:290][  0]LogHAL: Display: Platform has ~ 32 GB [34272317440 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.22-13.48.18:290][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.22-13.48.18:290][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.22-13.48.18:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Scalability.ini]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.22-13.48.18:291][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal engine/unitychanTest3/Saved/Config/Windows/Engine.ini]
+[2019.08.22-13.48.18:291][  0]LogInit: Computer: DESKTOP-PTMPBR3
+[2019.08.22-13.48.18:291][  0]LogInit: User: tyojugiga
+[2019.08.22-13.48.18:291][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.22-13.48.18:291][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.22-13.48.18:291][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.08.22-13.48.18:291][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.22-13.48.18:291][  0]LogMemory: Process Physical Memory: 98.48 MB used, 98.48 MB peak
+[2019.08.22-13.48.18:291][  0]LogMemory: Process Virtual Memory: 93.45 MB used, 93.45 MB peak
+[2019.08.22-13.48.18:291][  0]LogMemory: Physical Memory: 7015.88 MB used,  25668.75 MB free, 32684.63 MB total
+[2019.08.22-13.48.18:291][  0]LogMemory: Virtual Memory: 4664.11 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.22-13.48.18:311][  0]LogInit: Using OS detected language (ja-JP).
+[2019.08.22-13.48.18:311][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.08.22-13.48.18:311][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.08.22-13.48.18:357][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.22-13.48.18:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.22-13.48.18:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.22-13.48.18:503][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.22-13.48.18:503][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.22-13.48.18:561][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.08.22-13.48.18:561][  0]LogD3D11RHI:       8031/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.22-13.48.18:563][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.22-13.48.18:563][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.22-13.48.18:563][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.22-13.48.18:568][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.22-13.48.18:569][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.22-13.48.18:569][  0]LogWindows: EnumDisplayDevices:
+[2019.08.22-13.48.18:569][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2019.08.22-13.48.18:569][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.08.22-13.48.18:569][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.08.22-13.48.18:569][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.08.22-13.48.18:569][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.22-13.48.18:569][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.08.22-13.48.18:569][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2019.08.22-13.48.18:569][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.08.22-13.48.18:569][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.08.22-13.48.18:600][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.22-13.48.18:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.22-13.48.18:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.22-13.48.18:606][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.22-13.48.18:614][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.22-13.48.18:880][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.22-13.48.18:893][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.22-13.48.18:903][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.22-13.48.18:913][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.22-13.48.18:924][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.22-13.48.18:934][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.22-13.48.18:944][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.22-13.48.18:954][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.22-13.48.18:959][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.22-13.48.19:019][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.22-13.48.19:021][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.22-13.48.19:063][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.22-13.48.19:063][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.22-13.48.19:080][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.22-13.48.19:080][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.22-13.48.19:089][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.22-13.48.19:097][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.22-13.48.19:106][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.22-13.48.19:116][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.22-13.48.19:148][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.22-13.48.19:148][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.22-13.48.19:148][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.22-13.48.19:154][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.22-13.48.19:191][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/unreal engine/unitychanTest3/Intermediate/Shaders/WorkingDirectory/11368/).
+[2019.08.22-13.48.19:191][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tyojugiga/AppData/Local/Temp/UnrealShaderWorkingDir/9796764042E7AF4E3CA957BE62C64A37/'.
+[2019.08.22-13.48.19:193][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.22-13.48.19:193][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.22-13.48.19:193][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.22-13.48.19:610][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.22-13.48.19:646][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/tyojugiga/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.22-13.48.19:646][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tyojugiga/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.22-13.48.19:646][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/unreal engine/unitychanTest3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.22-13.48.19:646][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.22-13.48.19:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/unreal engine/unitychanTest3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.22-13.48.19:647][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.22-13.48.19:656][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.22-13.48.19:656][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.22-13.48.19:656][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.22-13.48.19:668][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tyojugiga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.22-13.48.19:668][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.22-13.48.19:668][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.22-13.48.19:684][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.22-13.48.19:685][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.22-13.48.19:685][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.22-13.48.19:752][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2019.08.22-13.48.19:978][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.22-13.48.20:078][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.22-13.48.20:078][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.22-13.48.20:078][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.22-13.48.20:078][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.22-13.48.20:078][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.22-13.48.20:088][  0]LogNetVersion: unitychanTest3 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3903358237)
+[2019.08.22-13.48.20:404][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.022005 seconds
+[2019.08.22-13.48.20:409][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.22-13.48.20:409][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.22-13.48.20:409][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.22-13.48.21:031][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.22-13.48.21:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.22-13.48.21:158][  0]SourceControl: ソースコントロールは無効です
+[2019.08.22-13.48.21:158][  0]SourceControl: ソースコントロールは無効です
+[2019.08.22-13.48.21:159][  0]SourceControl: ソースコントロールは無効です
+[2019.08.22-13.48.21:159][  0]SourceControl: ソースコントロールは無効です
+[2019.08.22-13.48.21:206][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.22-13.48.21:269][  0]LogOcInput: OculusInput pre-init called
+[2019.08.22-13.48.21:767][  0]LogEngine: Initializing Engine...
+[2019.08.22-13.48.21:768][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.22-13.48.21:768][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.22-13.48.21:922][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.22-13.48.21:932][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.22-13.48.21:994][  0]LogInit: XAudio2 using 'VA2419 Series (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.22-13.48.22:015][  0]LogInit: FAudioDevice initialized.
+[2019.08.22-13.48.22:015][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.22-13.48.22:085][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/tyojugiga/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.22-13.48.22:094][  0]LogInit: Texture streaming: Enabled
+[2019.08.22-13.48.22:107][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.22-13.48.22:121][  0]LogInit: Transaction tracking system initialized
+[2019.08.22-13.48.22:140][  0]BlueprintLog: New page: エディタの読み込み
+[2019.08.22-13.48.22:197][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.08.22-13.48.22:427][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/unitychanTest3/Content/' took 0.01s
+[2019.08.22-13.48.22:427][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.22-13.48.22:427][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.22-13.48.22:476][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.22:476][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.22:477][  0]LoadErrors: ロードに失敗しました /Game/model/Cube.Cube 参照元 Cube
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.22:477][  0]LogUObjectGlobals: Warning: オブジェクト 'StaticMesh /Engine/BasicShapes/Cube.Cube' が見つかりませんでした
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: ファイル '/Engine/BasicShapes/Sphere' が見つかりません
+[2019.08.22-13.48.22:477][  0]LogLinker: Warning: ファイル '/Engine/BasicShapes/Sphere' が見つかりません
+[2019.08.22-13.48.22:477][  0]LogUObjectGlobals: Warning: オブジェクト 'StaticMesh /Engine/BasicShapes/Sphere.Sphere' が見つかりませんでした
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.22:478][  0]LoadErrors: ロードに失敗しました /Game/model/Cylinder.Cylinder 参照元 Cylinder
+[2019.08.22-13.48.22:478][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.22:478][  0]LogUObjectGlobals: Warning: オブジェクト 'StaticMesh /Engine/BasicShapes/Cylinder.Cylinder' が見つかりませんでした
+[2019.08.22-13.48.22:542][  0]SourceControl: ソースコントロールは無効です
+[2019.08.22-13.48.22:542][  0]Cmd: MAP LOAD FILE="D:/unreal engine/unitychanTest3/Content/map/unitychanMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.22-13.48.22:542][  0]LightingResults: New page: ライティングのビルド
+[2019.08.22-13.48.22:544][  0]MapCheck: New page: マップをチェック
+[2019.08.22-13.48.22:544][  0]LightingResults: New page: ライティングのビルド
+[2019.08.22-13.48.22:567][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.08.22-13.48.22:902][  0]LogAIModule: Creating AISystem for world unitychanMap
+[2019.08.22-13.48.22:907][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.22-13.48.22:930][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.08.22-13.48.22:930][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.22-13.48.22:930][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.069ミリ秒かかりました。
+[2019.08.22-13.48.22:930][  0]LogFileHelpers: Loading map 'unitychanMap' took 0.388
+[2019.08.22-13.48.23:015][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.48.23:020][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.48.23:025][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.48.23:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.48.23:035][  0]LogCollectionManager: Loaded 0 collections in 0.001203 seconds
+[2019.08.22-13.48.23:050][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/unitychanTest3/Saved/Collections/' took 0.01s
+[2019.08.22-13.48.23:050][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/unitychanTest3/Content/Developers/tyojugiga/Collections/' took 0.00s
+[2019.08.22-13.48.23:050][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/unitychanTest3/Content/Collections/' took 0.00s
+[2019.08.22-13.48.23:050][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.22-13.48.23:056][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2745 classes and 666 folders.
+[2019.08.22-13.48.23:061][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.22-13.48.23:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.22-13.48.23:089][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.22-13.48.23:093][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.22-13.48.23:141][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.22-13.48.23:142][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.08.22-13.48.23:142][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.08.22-13.48.23:143][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.22-13.48.23:145][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.22-13.48.23:201][  0]LogRenderer: Reallocating scene render targets to support 1100x604 Format 10 NumSamples 1 (Frame:1).
+[2019.08.22-13.48.23:352][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.22-13.48.23:352][  0]LogLoad: (Engine Initialization) Total time: 6.55 seconds
+[2019.08.22-13.48.23:352][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: ファイル '/Game/model/Cube' が見つかりません
+[2019.08.22-13.48.23:368][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cube'  のファイルが見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: ファイル '/Game/model/Cylinder' が見つかりません
+[2019.08.22-13.48.23:369][  0]LogLinker: Warning: NULL のロード中にアセット '/Game/model/Cylinder'  のファイルが見つかりません
+[2019.08.22-13.48.23:386][  0]LogAssetRegistry: Asset discovery search completed in 3.6563 seconds
+[2019.08.22-13.48.23:387][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.22-13.48.23:387][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2019.08.22-13.48.23:388][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.22-13.48.23:397][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-13.48.23:528][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.22-13.48.26:110][306]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.08.22-13.48.26:113][306]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.08.22-13.48.36:119][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-13.49.57:367][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.08.22-13.50.05:831][185]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.50.05:835][185]LogUObjectGlobals: Force Deleting 16 Package(s):
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce
+	Asset Name: /Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio
+	Asset Name: /Game/StarterContent/Blueprints/Assets/FogBrightnessLUT.FogBrightnessLUT
+	Asset Name: /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.M_LightStage_Arrows
+[2019.08.22-13.50.05:836][185]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.22-13.50.05:846][185]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.08.22-13.50.07:834][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.08.22-13.50.07:856][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.50.07:875][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.07:894][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.07:915][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.08.22-13.50.07:934][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.07:954][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.50.07:972][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.07:991][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:010][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:029][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:051][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:070][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:090][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:108][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.08:129][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.50.08:149][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.08.22-13.50.08:168][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.25:730][885]LogSlate: Window 'プロジェクトにコンテンツを追加' being destroyed
+[2019.08.22-13.50.30:338][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.08.22-13.50.33:673][430]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.50.33:677][430]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Steam01.Steam01
+	Asset Name: /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+	Asset Name: /Game/StarterContent/Audio/Smoke01.Smoke01
+	Asset Name: /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue
+	Asset Name: /Game/StarterContent/Audio/Fire01.Fire01
+	Asset Name: /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue
+	Asset Name: /Game/StarterContent/Audio/Explosion02.Explosion02
+	Asset Name: /Game/StarterContent/Audio/Explosion01.Explosion01
+[2019.08.22-13.50.35:367][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.22-13.50.35:388][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:408][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:428][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:448][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:469][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:489][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:509][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.08.22-13.50.35:529][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:550][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:571][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.35:589][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:609][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.08.22-13.50.35:629][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:648][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:668][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:688][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:708][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:728][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:748][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.50.35:766][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:787][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.50.35:807][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:829][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.35:849][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.08.22-13.50.35:868][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.45:043][507]LogStaticMesh: スタティックメッシュ Floor_400x400 をビルド中...
+[2019.08.22-13.50.45:043][507]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.22-13.50.45:047][507]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.08.22-13.50.45:129][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.08.22-13.50.56:736][507]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.50.56:740][507]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2019.08.22-13.50.57:559][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.08.22-13.50.57:579][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:599][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.50.57:619][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:638][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:658][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:679][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:699][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:718][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.50.57:738][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.50.57:759][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.50.57:779][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.08.22-13.50.57:799][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.51.12:575][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.51.14:368][252]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.51.14:372][252]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2019.08.22-13.51.14:542][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.08.22-13.51.14:563][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.08.22-13.51.14:583][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.51.23:695][336]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:696][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:699][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows' が見つかりません
+[2019.08.22-13.51.23:699][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows'  のファイルが見つかりません
+[2019.08.22-13.51.23:700][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI' が見つかりません
+[2019.08.22-13.51.23:700][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI'  のファイルが見つかりません
+[2019.08.22-13.51.23:729][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/SM_AssetPlatform' が見つかりません
+[2019.08.22-13.51.23:729][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/SM_AssetPlatform'  のファイルが見つかりません
+[2019.08.22-13.51.23:729][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows' が見つかりません
+[2019.08.22-13.51.23:729][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows'  のファイルが見つかりません
+[2019.08.22-13.51.23:729][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI' が見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI'  のファイルが見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: ファイル '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' が見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'  のファイルが見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:730][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/SM_AssetPlatform' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/SM_AssetPlatform'  のファイルが見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: ファイル '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'  のファイルが見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/BP_LightStudio' が見つかりません
+[2019.08.22-13.51.23:731][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/BP_LightStudio'  のファイルが見つかりません
+[2019.08.22-13.51.23:733][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/SM_AssetPlatform' が見つかりません
+[2019.08.22-13.51.23:733][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform 参照元 SM_AssetPlatform_7
+[2019.08.22-13.51.23:733][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/SM_AssetPlatform'  のファイルが見つかりません
+[2019.08.22-13.51.24:023][336]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.08.22-13.51.24:052][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:052][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:052][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:052][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:056][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:056][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:056][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:056][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:057][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:062][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:062][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue 参照元 Starter_Background_Cue_2
+[2019.08.22-13.51.24:062][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:063][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:063][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor
+[2019.08.22-13.51.24:063][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:063][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:063][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_14
+[2019.08.22-13.51.24:063][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:111][336]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.22-13.51.24:119][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:120][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:121][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_400x200' が見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_400x200'  のファイルが見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Door_400x300' が見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Door_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:209][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Window_400x300' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Window_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Collapse_Cue' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Collapse_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Music_Cue' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Music_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:210][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:211][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:211][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:222][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:222][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:222][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Collapse_Cue' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Collapse_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:223][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Music_Cue' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Music_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_400x200' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_400x200'  のファイルが見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Door_400x300' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Door_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Window_400x300' が見つかりません
+[2019.08.22-13.51.24:224][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Window_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:225][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:225][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:225][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:225][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:226][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_400x200' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_400x200'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Door_400x300' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Door_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Window_400x300' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Window_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Collapse_Cue' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Collapse_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:227][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Music_Cue' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Music_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:228][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Collapse_Cue' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Collapse_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Music_Cue' が見つかりません
+[2019.08.22-13.51.24:229][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Music_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_400x200' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_400x200'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Door_400x300' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Door_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Window_400x300' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Window_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:230][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire' が見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Fire'  のファイルが見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke' が見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke'  のファイルが見つかりません
+[2019.08.22-13.51.24:234][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks' が見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks'  のファイルが見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam' が見つかりません
+[2019.08.22-13.51.24:235][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_Effect_Steam'  のファイルが見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_CeilingLight' が見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_CeilingLight'  のファイルが見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: ファイル '/Game/StarterContent/Blueprints/Blueprint_WallSconce' が見つかりません
+[2019.08.22-13.51.24:238][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Blueprints/Blueprint_WallSconce'  のファイルが見つかりません
+[2019.08.22-13.51.24:256][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Collapse_Cue' が見つかりません
+[2019.08.22-13.51.24:256][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue 参照元 Collapse_Cue_2
+[2019.08.22-13.51.24:256][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Collapse_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:256][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Background_Cue' が見つかりません
+[2019.08.22-13.51.24:256][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Background_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:256][336]LogLinker: Warning: ファイル '/Game/StarterContent/Audio/Starter_Music_Cue' が見つかりません
+[2019.08.22-13.51.24:257][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue 参照元 Starter_Music_Cue_5
+[2019.08.22-13.51.24:257][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Audio/Starter_Music_Cue'  のファイルが見つかりません
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:260][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_10
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:260][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_11
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:260][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_12
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:260][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:260][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_13
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:261][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_15
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:261][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_16
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:261][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_17
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:261][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:262][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_18
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:262][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_19
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:262][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_2
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:262][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_20
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:262][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:262][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_21
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:263][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_22
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:263][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_23
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:263][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_24
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:263][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:263][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_25
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:264][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_26
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:264][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_27
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:264][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_28
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:264][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_29
+[2019.08.22-13.51.24:264][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:265][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_3
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:265][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_30
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:265][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_31
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:265][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_32
+[2019.08.22-13.51.24:265][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:266][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_33
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:266][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_34
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:266][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_35
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:266][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_36
+[2019.08.22-13.51.24:266][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:267][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_37
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:267][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_38
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:267][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_39
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:267][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:267][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_4
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:268][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_40
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:268][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_41
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:268][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_42
+[2019.08.22-13.51.24:268][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:269][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_43
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:269][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_5
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:269][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_6
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:269][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:269][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_7
+[2019.08.22-13.51.24:270][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:270][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:270][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_8
+[2019.08.22-13.51.24:270][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:270][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Floor_400x400' が見つかりません
+[2019.08.22-13.51.24:270][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 参照元 Floor_9
+[2019.08.22-13.51.24:270][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Floor_400x400'  のファイルが見つかりません
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Window_400x300' が見つかりません
+[2019.08.22-13.51.24:275][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 参照元 Wall_Door_400x300_6
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Window_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_Door_400x300' が見つかりません
+[2019.08.22-13.51.24:275][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 参照元 Wall_Door_400x301_9
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_Door_400x300'  のファイルが見つかりません
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: ファイル '/Game/StarterContent/Architecture/Wall_400x200' が見つかりません
+[2019.08.22-13.51.24:275][336]LoadErrors: ロードに失敗しました /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 参照元 Wall_Door_400x302
+[2019.08.22-13.51.24:275][336]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Architecture/Wall_400x200'  のファイルが見つかりません
+[2019.08.22-13.51.24:551][336]LogAIModule: Creating AISystem for world StarterMap
+[2019.08.22-13.51.24:597][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.08.22-13.51.26:055][336]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.51.26:120][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.08.22-13.51.26:140][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.26:159][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.51.26:180][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.51.26:199][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.51.26:218][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.26:241][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.08.22-13.51.26:259][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddAtmosphericFogComponent-0_42': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NODE_AddDirectionalLightComponent-1_42': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExponentialHeightFog1': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MaterialInstanceDynamic_84': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MaterialInstanceDynamic_85': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene1': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SkyLight1': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PrevisArrow': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Skybox': BP_LightStudio_C /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.BP_LightStudio_C_0
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire Audio': Blueprint_Effect_Fire_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Smoke Audio': Blueprint_Effect_Smoke_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sparks Audio': Blueprint_Effect_Sparks_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Steam AUdio': Blueprint_Effect_Steam_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Fire': Blueprint_Effect_Fire_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Fire_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Smoke': Blueprint_Effect_Smoke_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Smoke_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sparks': Blueprint_Effect_Sparks_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Sparks_C_1
+[2019.08.22-13.51.26:266][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'P_Steam_Lit': Blueprint_Effect_Steam_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_Effect_Steam_C_1
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight1': Blueprint_CeilingLight_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_CeilingLight_C_1
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene1': Blueprint_CeilingLight_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_CeilingLight_C_1
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene1': Blueprint_WallSconce_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight2': Blueprint_WallSconce_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lamp_Ceiling': Blueprint_CeilingLight_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_CeilingLight_C_1
+[2019.08.22-13.51.26:267][336]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SM_Lamp_Wall': Blueprint_WallSconce_C /Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.Blueprint_WallSconce_C_0
+[2019.08.22-13.51.49:023][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.08.22-13.51.53:424][ 24]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.51.53:563][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.08.22-13.51.53:583][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:603][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.51.53:623][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:642][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:667][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:687][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:707][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:728][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:747][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:767][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:788][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:806][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.22-13.51.53:825][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:846][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:869][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:890][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:911][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.51.53:931][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:952][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:972][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.53:991][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:013][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:033][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.51.54:052][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.22-13.51.54:073][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:093][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:112][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:131][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:150][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.51.54:169][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.22-13.51.54:191][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.08.22-13.51.54:211][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.52.17:470][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.52.30:299][775]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-13.52.42:112][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.22-13.52.43:212][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.52.46:345][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/unitychanMap" FILE="D:/unreal engine/unitychanTest3/Content/map/unitychanMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.22-13.52.46:366][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.52.46:461][684]LogSavePackage: Moving 'D:/unreal engine/unitychanTest3/Saved/unitychanMap77345AEC40072E1EF3C19A8373E5C25E.tmp' to 'D:/unreal engine/unitychanTest3/Content/map/unitychanMap.umap'
+[2019.08.22-13.52.46:486][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/unitychanMap_BuiltData" FILE="D:/unreal engine/unitychanTest3/Content/map/unitychanMap_BuiltData.uasset" SILENT=true
+[2019.08.22-13.52.46:504][684]LogSavePackage: Moving 'D:/unreal engine/unitychanTest3/Saved/unitychanMap_BuiltData451C36A1467BAF5C33E3149FB0D5B35B.tmp' to 'D:/unreal engine/unitychanTest3/Content/map/unitychanMap_BuiltData.uasset'
+[2019.08.22-13.52.47:708][828]LogTemp: Repeating last play command: 選択ビューポート
+[2019.08.22-13.52.47:720][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/map/unitychanMap.unitychanMap:PersistentLevel' has LevelScriptBlueprint '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap' with GeneratedClass '/Game/map/unitychanMap.unitychanMap_C' with ClassGeneratedBy '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap'
+[2019.08.22-13.52.47:720][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.22-13.52.47:721][828]PIE: New page: PIEセッション: unitychanMap (2019/08/23 7:52:47)
+[2019.08.22-13.52.47:733][828]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_unitychanMap
+[2019.08.22-13.52.47:737][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003719s)
+[2019.08.22-13.52.47:737][828]LogAIModule: Creating AISystem for world unitychanMap
+[2019.08.22-13.52.47:737][828]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2019.08.22-13.52.47:737][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/unitychanMap.unitychanMap to /Game/map/UEDPIE_0_unitychanMap.unitychanMap (0.004409s)
+[2019.08.22-13.52.47:758][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.08.22-13.52.47:773][828]LogInit: XAudio2 using 'VA2419 Series (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.22-13.52.47:782][828]LogInit: FAudioDevice initialized.
+[2019.08.22-13.52.47:859][828]LogLoad: Game class is 'BP_unitychanTest3GameModeBase_C'
+[2019.08.22-13.52.47:862][828]LogWorld: Bringing World /Game/map/UEDPIE_0_unitychanMap.unitychanMap up for play (max tick rate 0) at 2019.08.22-22.52.47
+[2019.08.22-13.52.47:863][828]LogWorld: Bringing up level for play took: 0.002479
+[2019.08.22-13.52.47:878][828]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.22-13.52.47:880][828]PIE: /Game/map/UEDPIE_0_unitychanMap -0.301のプレイ イン エディタの開始時間
+[2019.08.22-13.52.47:880][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/map/unitychanMap.unitychanMap:PersistentLevel' has LevelScriptBlueprint '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap' with GeneratedClass '/Game/map/unitychanMap.unitychanMap_C' with ClassGeneratedBy '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap'
+[2019.08.22-13.53.03:887][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/map/unitychanMap.unitychanMap:PersistentLevel' has LevelScriptBlueprint '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap' with GeneratedClass '/Game/map/unitychanMap.unitychanMap_C' with ClassGeneratedBy '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap'
+[2019.08.22-13.53.03:887][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.53.03:916][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.22-13.53.03:916][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/map/unitychanMap.unitychanMap:PersistentLevel' has LevelScriptBlueprint '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap' with GeneratedClass '/Game/map/unitychanMap.unitychanMap_C' with ClassGeneratedBy '/Game/map/unitychanMap.unitychanMap:PersistentLevel.unitychanMap'
+[2019.08.22-13.53.03:939][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.22-13.53.03:941][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.08.22-13.53.03:993][751]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.22-13.53.06:136][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-13.53.06:252][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.22-13.53.06:316][ 18]LogSlate: Window 'unitychanTest3 - Unreal Editor' being destroyed
+[2019.08.22-13.53.06:318][ 18]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.08.22-13.53.06:475][ 19]Cmd: QUIT_EDITOR
+[2019.08.22-13.53.07:430][ 19]LogExit: Preparing to exit.
+[2019.08.22-13.53.08:202][ 19]LogExit: Editor shut down
+[2019.08.22-13.53.08:202][ 19]LogExit: Transaction tracking system shut down
+[2019.08.22-13.53.08:383][ 19]LogExit: Object subsystem successfully closed.
+[2019.08.22-13.53.08:408][ 19]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.22-13.53.08:412][ 19]LogD3D11RHI: Shutdown
+[2019.08.22-13.53.08:412][ 19]LogD3D11RHI: CleanupD3DDevice
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.22-13.53.08:413][ 19]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.22-13.53.08:507][ 19]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (656)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module Voice (654)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module MeshBuilder (652)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (650)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (648)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module SceneOutliner (646)
+[2019.08.22-13.53.08:524][ 19]LogModuleManager: Shutting down and abandoning module AddContentDialog (644)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WidgetCarousel (643)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module EditorWidgets (640)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module CollectionManager (638)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module StatsViewer (636)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module FoliageEdit (634)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module LandscapeEditor (632)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module MeshPaintMode (630)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (628)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module ActorPickerMode (626)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module GeometryMode (624)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module TextureAlignMode (622)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module BspMode (620)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (618)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (616)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AutomationWorker (614)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module OculusMR (612)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (610)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (608)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (606)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module PlacementMode (605)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module MaterialEditor (604)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (600)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (598)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (596)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (594)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (592)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module WebMMedia (590)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (588)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (586)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (582)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (580)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (578)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (576)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (574)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (572)
+[2019.08.22-13.53.08:525][ 19]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (570)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (568)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (566)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (564)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (562)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module CharacterAI (560)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module SmartSnapping (558)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module SessionServices (556)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module MeshPaint (554)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module ViewportSnapping (552)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module ViewportInteraction (550)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module ClothPainter (548)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (547)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module LogVisualizer (544)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module IntroTutorials (542)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (541)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (538)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (536)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (534)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (532)
+[2019.08.22-13.53.08:526][ 19]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (531)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (528)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (526)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (524)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (522)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (520)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module InputBindingEditor (518)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module MergeActors (516)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (514)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module LocalizationService (513)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module HardwareTargeting (510)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (508)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module UndoHistory (506)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module XmlParser (504)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module Blutility (502)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (500)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (499)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (496)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module SettingsEditor (494)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module ProjectLauncher (492)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module SessionFrontend (490)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module ProfilerClient (488)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module DeviceManager (486)
+[2019.08.22-13.53.09:406][ 19]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (485)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module AutomationController (482)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module AutomationWindow (480)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module Layers (478)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (476)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module DetailCustomizations (474)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module PackagesDialog (472)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (470)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module Persona (468)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (467)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module AnimGraph (465)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module Kismet (462)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module GraphEditor (460)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module ClassViewer (458)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module Toolbox (456)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module DesktopPlatform (455)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.08.22-13.53.09:448][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module LiveCoding (442)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module LevelSequence (440)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2019.08.22-13.53.09:449][ 19]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2019.08.22-13.53.09:452][ 19]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2019.08.22-13.53.09:470][ 19]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2019.08.22-13.53.09:470][ 19]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2019.08.22-13.53.09:470][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2019.08.22-13.53.09:470][ 19]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module OculusEditor (402)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module OculusInput (400)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (398)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module EditableMesh (396)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AudioCapture (390)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (388)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AndroidPermission (386)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (384)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (382)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (374)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (372)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (370)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.08.22-13.53.09:471][ 19]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (336)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (314)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module unitychanTest3 (300)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2019.08.22-13.53.09:472][ 19]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2019.08.22-13.53.09:473][ 19]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.22-13.53.09:473][ 19]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.22-13.53.09:574][ 19]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.22-13.53.09:674][ 19]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.22-13.53.09:674][ 19]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.22-13.53.09:675][ 19]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.22-13.53.09:675][ 19]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.22-13.53.09:675][ 19]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.22-13.53.09:675][ 19]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.22-13.53.09:675][ 19]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.22-13.53.09:676][ 19]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.22-13.53.09:677][ 19]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.22-13.53.09:679][ 19]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.22-13.53.09:706][ 19]LogDerivedDataCache: Shutdown
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.22-13.53.09:706][ 19]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.22-13.53.09:707][ 19]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.22-13.53.09:708][ 19]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.22-13.53.09:708][ 19]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.22-13.53.09:708][ 19]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.22-13.53.09:708][ 19]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.22-13.53.09:713][ 19]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.22-13.53.09:713][ 19]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.22-13.53.09:714][ 19]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.22-13.53.09:714][ 19]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.22-13.53.09:736][ 19]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.22-13.53.09:736][ 19]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.22-13.53.09:736][ 19]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B122625F6-43F4-8E3D-95F3-EB8E0BDC27BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b37f5fd040864f4df605ecbe3e311984%7C0ca21b105c2a446ebb765e55ed4537e1%7Ca1d4be88-91a5-42af-af5c-fcadafd67d6f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.22-13.53.09:763][ 19]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.22-13.53.09:764][ 19]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.22-13.53.09:766][ 19]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.22-13.53.09:772][ 19]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.22-13.53.09:772][ 19]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.22-13.53.09:772][ 19]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.22-13.53.09:772][ 19]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.22-13.53.09:772][ 19]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.22-13.53.09:773][ 19]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.22-13.53.09:785][ 19]LogExit: Exiting.
+[2019.08.22-13.53.09:822][ 19]Log file closed, 08/22/19 22:53:09
